@@ -1,4 +1,4 @@
-// This was written by WolfWings on screeps.slack.com
+
 // Use a Red/White flag as a 'rally point' when there's nothing to do in a room.
 // Use a Yellow/Yellow flag to mark an exit row that leads TO a room to remote-mine.
 // Use a Yellow/Grey flag to mark an exit leading back FROM a room to where more storage is.
