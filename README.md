@@ -1,2 +1,2 @@
-# Screeos
+# Screeps
 Work in progress Screep
